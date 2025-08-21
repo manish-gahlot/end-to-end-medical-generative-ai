@@ -1,1 +1,0 @@
-# end-to-end-medical-generative-ai
